@@ -1,6 +1,6 @@
 # 📸 Visual Image Search - Frontend
 
-This is the frontend of the Visual Image Search app. It allows users to upload an image and search for visually similar images.
+This is the frontend of the Visual Image Search app. It allows users to upload an image and search for visually similar images, also can append new image to the db.
 
 ## 🛠️ Tech Stack
 
@@ -11,7 +11,10 @@ This is the frontend of the Visual Image Search app. It allows users to upload a
 
 ## 🚀 Setup Instructions
 
-1. **Clone the repo**
+1. **Clone the repo** 
    ```bash
    git clone https://github.com/SehamAnter1/image-search-frontend.git
    cd image-search-frontend
+   npm install
+   npm run dev
+   
